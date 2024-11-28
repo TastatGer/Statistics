@@ -18,9 +18,10 @@ i can recommend Applied Survival Analysis from Hosmer, Lemeshow to read up on cu
 its a good source to double check or look up formulas.
 
 #Dependencies
-  python
+  python 3.9.13
   pandas 1.4.4
   numpy 1.21.5
   scipy 1.9.1
+  matplotlib 3.5.2
 
-  
+#For questions, please open an issue or start a discussion in this repository or contact me on discord tastat#3604.
