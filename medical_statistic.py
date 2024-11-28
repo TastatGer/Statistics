@@ -14,7 +14,7 @@ kumulativen Inziden ermöglichen.
 Beim Kaplan-Meier-Schätzer soll ebenfalls der Log-Rang-Test durchgeführt werden
 
 
-@author: Noah
+@author: Tastat
 """
 
 import pandas as pd
@@ -393,7 +393,7 @@ class KaplanMeier:
    
 def main():
         
-    df = pd.read_excel('Beleg_Biostatistik_2023_Daten.xlsx')
+    df = pd.read_excel('Patienten_Daten.xlsx')
     
     print("Programm zur Berechnung von Überlebenszeiten")
     print("Wählen Sie eine der beiden Optionen:")
