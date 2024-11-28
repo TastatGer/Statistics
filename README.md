@@ -16,6 +16,7 @@ Age, GTV, TBR, HV  -  arbitrary risk factors
 
 i can recommend Applied Survival Analysis from Hosmer, Lemeshow to read up on cumulative incidence.
 its a good source to double check or look up formulas.
+just download the script and the patient excel and run the code.
 
 #Dependencies
   python 3.9.13
