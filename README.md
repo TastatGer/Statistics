@@ -2,7 +2,7 @@
 
 #Description
 this programm calculates Kaplan-Meier Curves or cummulative incidence for a set of Patient Survival Data. 
-The Data has to be in an Excel.
+The Data has to be in an Excel and they are obviously fictional.
 I sorted the Patient Data in 9 columns as followed:
           ID    OStime  LRCtime  OS    LRC    Age    GTV   TBR    HV
           1     1       1        1     0      50     30    1,2    0
